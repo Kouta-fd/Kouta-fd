@@ -1,9 +1,9 @@
 <!--![](https://github-readme-stats.vercel.app/api?username=kouta-fd&count_private=true&show_icons=true&theme=blue-green)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kouta-fd&layout=compact&theme=blue-green)-->
-<a href="https://github.com/tocoteron">
+<a href="https://github.com/kouta-fd">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=kouta-fd&count_private=true&show_icons=true&theme=blue-green" />
 </a>
-<a href="https://github.com/tocoteron">
+<a href="https://github.com/kouta-fd">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kouta-fd&layout=compact&theme=blue-green" />
 </a>
 <!---
