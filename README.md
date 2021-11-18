@@ -7,8 +7,9 @@
 <a href="https://github.com/kouta-fd">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kouta-fd&layout=compact&theme=blue-green&hide=Jupyter notebook&count_private=true" />
 </a>
-<br>
-(https://github-profile-trophy.vercel.app/?username=Kouta-fd&theme=onedark)](https://github.com/Kouta-fd/github-profile-trophy)
+<div>
+  <img height="170px" src="https://github-profile-trophy.vercel.app/?username=Kouta-fd&theme=onedark" />
+</div>
 
 <!---
 Kouta-fd/Kouta-fd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
