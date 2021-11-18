@@ -8,6 +8,7 @@
     <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kouta-fd&layout=compact&theme=blue-green&hide=Jupyter notebook&count_private=true" />
   </a>
 </div>
+
 ---
 
 <a href="https://github.com/kouta-fd/github-profile-trophy">
