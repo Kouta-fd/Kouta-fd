@@ -1,9 +1,9 @@
 <!--![](https://github-readme-stats.vercel.app/api?username=kouta-fd&count_private=true&show_icons=true&theme=blue-green)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kouta-fd&layout=compact&theme=blue-green)-->
-<!-- [![](https://raw.githubusercontent.com/kouta-fd/kouta-fd/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/kouta-fd/kouta-fd/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/kouta-fd/skouta-fd/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/kouta-fd/kouta-fd/master/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
- -->
+
 
 ---
 
